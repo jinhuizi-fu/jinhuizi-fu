@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jinhuizi-fu
 - 👀 I’m interested in data science, coding, and music
-- 🌱 I’m currently learning basic algorithms and data structure
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning new stuff
+- 💞️ I’m looking to collaborate on anything interestnig
+- 📫 How to reach me: jinhuizi.fu@gmail.com
 
 <!---
 jinhuizi-fu/jinhuizi-fu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
